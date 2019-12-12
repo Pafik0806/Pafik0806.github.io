@@ -89,6 +89,10 @@ button:active{
     border: 1px solid #000;
 }
 
+button:hover{
+ background-color:#f9e6a5;
+}
+
  .logo_img {
      vertical-align: middle;
      width: 60px;
