@@ -92,6 +92,7 @@ footer{
       flex-direction: column;
       justify-content: center;
       width: 500px;
+   max-height: 470px;
       color: aliceblue;
       margin: 40px;
       line-height: 1.5;
