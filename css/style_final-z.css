@@ -7,6 +7,7 @@
       padding: 10px 0px;
       margin: 0 auto;
       background: linear-gradient(0deg, #1DA6A6, #003, #000);
+      background-repeat: repeat-x;
       font-family: "Verdana", sans-serif;
       font-size: 14px;
       color: #000;
@@ -92,7 +93,7 @@ footer{
       flex-direction: column;
       justify-content: center;
       width: 500px;
-   max-height: 470px;
+      max-height: 470px;
       color: aliceblue;
       margin: 40px;
       line-height: 1.5;
