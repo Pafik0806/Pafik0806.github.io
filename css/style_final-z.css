@@ -4,9 +4,8 @@
 
   body {
       width: 1280px;
-      padding: 0px;
-      margin: 0px auto;
-      background-color: #131313;
+      padding: 10px 0px;
+      margin: 0 auto;
       background: linear-gradient(0deg, #1DA6A6, #003, #000);
       background-repeat: no-repeat;
       font-family: "Verdana", sans-serif;
