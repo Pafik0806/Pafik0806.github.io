@@ -129,6 +129,10 @@
       background-image: url("../img/rocket_1.png");
   }
 
+ .rocket_2{
+      background-image: url("../img/rocket_2.png");
+  }
+
   .rocket_red {
       background-image: url("../img/rocket_red.png");
   }
